@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/cs_labs/static/js/main.112abf81.js",
+    "static/js/787.28cb0dcd.chunk.js": "/cs_labs/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/cs_labs/index.html",
+    "main.112abf81.js.map": "/cs_labs/static/js/main.112abf81.js.map",
+    "787.28cb0dcd.chunk.js.map": "/cs_labs/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.112abf81.js"
+  ]
+}
